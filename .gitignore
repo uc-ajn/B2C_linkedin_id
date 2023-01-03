@@ -1,0 +1,8 @@
+#Ingore Node Modules Folder.
+/node_modules
+
+#Ignore Data folder
+/data
+
+
+
